@@ -3,14 +3,6 @@
 
 Projeto desenvolvido para a disciplina de Programação Web II.
 
-##  Autor
-Nome completo: Enzo Ferrarini de Oliveira
-
-## Vídeo
-Link: https://drive.google.com/file/d/1rZmoa_nepT228ElpCpGMj9iNs-3a4E_M/view?usp=sharing
-
----
-
 ##  Descrição
 
 Esta é uma API REST de gerenciamento de tarefas (To-Do List), desenvolvida utilizando Node.js puro, sem frameworks.
